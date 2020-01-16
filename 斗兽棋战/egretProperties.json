@@ -1,0 +1,29 @@
+{
+  "engineVersion": "5.2.13",
+  "compilerVersion": "5.2.13",
+  "template": {},
+  "target": {
+    "current": "wxgame"
+  },
+  "modules": [
+    {
+      "name": "egret"
+    },
+    {
+      "name": "game"
+    },
+    {
+      "name": "tween"
+    },
+    {
+      "name": "assetsmanager"
+    },
+    {
+      "name": "promise"
+    },
+    {
+      "name": "lodash",
+      "path": "./libs/lodash"
+    }
+  ]
+}

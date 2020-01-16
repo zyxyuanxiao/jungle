@@ -1,0 +1,686 @@
+{
+	"groups": [
+		{
+			"keys": "home_bg_jpg,chooseLevelIcon_png,chooseHat_png,chooseItemBg_png,star_png,rotateIcon_png,yanMV_png,yanMV_json,showQi_png,showQi_json,photo_json,gameOverBg_png,gameGZbg_png,gameBG_jpg,game_json,zou_mp3,zha_mp3,win_mp3,userSkin_mp3,turnPlate_mp3,Success_mp3,showAward_mp3,select_mp3,place_mp3,pipei_mp3,notice_mp3,lost_mp3,getScore_mp3,fan_mp3,fail_mp3,dongwu_8_mp3,dongwu_7_mp3,dongwu_6_mp3,dongwu_5_mp3,dongwu_4_mp3,dongwu_3_mp3,dongwu_2_mp3,dongwu_1_mp3,chi_mp3,btnClick_mp3,write_png,clickInput_png,sendTxtMsg_png,listBg_png,index_rank_png,index_coin_png,index_sign_png,index_turn_png,index_invite_png,index_freeCoin_png,index_friendNav_png,index_voice_open_png,index_voice_close_png,lockBg_png,chat_1_png,chat_2_png,chat_choose_png,loginGame_png,loading1_png,loading2_png,loadingBg_jpg,loadingCircle_png,musicIcon_png,flaunt_png,quitBtn_png,peaceBtn_png,propBtn_png,propBg_png,prop_calcu_png,prop_mouse_png,gradBg_png,index_person_png,index_shop_png,moreBg_png,more1_png,more2_png,more3_png,more4_png,winBg_png,singleTextMsg_png,translucenceBg_png,window_close_png,window_return_png,toastComfire_png,toastBg_png,mouseHead_png,matchPageBg_jpg,rotateIcon1_png,match_inviteBtn_png,match_quitBtn_png,tieBg_png,failBg_png,exchangeEnemy_png,againPlayBtn_png,signBg_png,sign_1_png,sign_2_png,sign_3_png,sign_4_png,sign_5_png,sign_6_png,sign_7_png,signGet_png,grad_json,rank_title_png,seeGroupRank_png,flauntRank_png,shangyishou_png,indexHelp_png",
+			"name": "IndexPage"
+		},
+		{
+			"keys": "musicIcon_png,loadingCircle_png,loadingBg_jpg,loading2_png,loading1_png",
+			"name": "Loading"
+		},
+		{
+			"keys": "award_calcu_png,award_mouse_png,inviteGiftWindowShare_png,mouse_revive_png,seeVideoLotto_png,shopBg_png,turnPlane_png,turnPoint_png,turnTitle_png,award_coin_png,ratate1_png,ratate2_png,congratTitle_png,getGift1_png,shop_buy_png,personCenterBg_png,invite_gotted_png,getGift2_png,invite_unGet_png,willBeInviteFriends_png,inviteGiftWindow_png,inviteGiftWindowItem_png",
+			"name": "Window"
+		}
+	],
+	"resources": [
+		{
+			"url": "musics/btnClick.mp3",
+			"type": "sound",
+			"name": "btnClick_mp3"
+		},
+		{
+			"url": "musics/getScore.mp3",
+			"type": "sound",
+			"name": "getScore_mp3"
+		},
+		{
+			"url": "musics/place.mp3",
+			"type": "sound",
+			"name": "place_mp3"
+		},
+		{
+			"url": "musics/showAward.mp3",
+			"type": "sound",
+			"name": "showAward_mp3"
+		},
+		{
+			"url": "musics/turnPlate.mp3",
+			"type": "sound",
+			"name": "turnPlate_mp3"
+		},
+		{
+			"url": "musics/userSkin.mp3",
+			"type": "sound",
+			"name": "userSkin_mp3"
+		},
+		{
+			"url": "images/Loading/loading1.png",
+			"type": "image",
+			"name": "loading1_png"
+		},
+		{
+			"url": "images/Loading/loading2.png",
+			"type": "image",
+			"name": "loading2_png"
+		},
+		{
+			"url": "images/Loading/loadingBg.jpg",
+			"type": "image",
+			"name": "loadingBg_jpg"
+		},
+		{
+			"url": "images/Loading/loadingCircle.png",
+			"type": "image",
+			"name": "loadingCircle_png"
+		},
+		{
+			"url": "images/Loading/musicIcon.png",
+			"type": "image",
+			"name": "musicIcon_png"
+		},
+		{
+			"url": "images/platform/loginGame.png",
+			"type": "image",
+			"name": "loginGame_png"
+		},
+		{
+			"url": "images/IndexPage/home_bg.jpg",
+			"type": "image",
+			"name": "home_bg_jpg"
+		},
+		{
+			"url": "images/GamePage/game.json",
+			"type": "sheet",
+			"name": "game_json",
+			"subkeys": "bNameBg_png,biaoqing1_png,biaoqing2_png,biaoqing3_png,biaoqing4_png,bluHHBit_png,game_dan_png,game_diban0_png,game_diban1_png,game_diban2_png,game_icon1_png,game_id1_png,game_id2_png,game_id3_png,game_id4_png,game_id5_png,game_id6_png,game_id7_png,game_id8_png,game_name1_png,game_name2_png,game_name3_png,game_name4_png,game_name5_png,game_name6_png,game_name7_png,game_name8_png,guizeBit_png,guizebqBG_png,help_png,jiantouBit_png,lawn_png,man_png,peace_png,quit_png,rNameBg_png,redHHBit_png,woman_png"
+		},
+		{
+			"url": "images/GamePage/gameBG.jpg",
+			"type": "image",
+			"name": "gameBG_jpg"
+		},
+		{
+			"url": "images/GamePage/gameGZbg.png",
+			"type": "image",
+			"name": "gameGZbg_png"
+		},
+		{
+			"url": "images/GamePage/gameOverBg.png",
+			"type": "image",
+			"name": "gameOverBg_png"
+		},
+		{
+			"url": "images/GamePage/photo.json",
+			"type": "sheet",
+			"name": "photo_json",
+			"subkeys": "Again,Cell,ClickAgain,Droiyan_1,Droiyan_2,Droiyan_3,Embellishment,Embellishment2,OpponentHeadImgBg,OwnHeadImgBg,Stars1,Stars2,Stars3,Substitution,Time,Trophy,VS,Win,WinTrophy,close,daojishi,escape,fail,fanhuiDJBtn,game_headbg1,game_headbg2,go,haibaoK1,haibaoK2,haibaoWin,loser1,loser2,loser3,matchingBg,musicADish,musicBg,musicPick,notAgain,pingjuBit,pingjuBit1,preparation,progress,progress1,progress2,progress2Bg,progressBg,sex_nan,sex_nv,share,shreFriend,star"
+		},
+		{
+			"url": "images/GamePage/showQi.json",
+			"type": "json",
+			"name": "showQi_json"
+		},
+		{
+			"url": "images/GamePage/showQi.png",
+			"type": "image",
+			"name": "showQi_png"
+		},
+		{
+			"url": "images/GamePage/yanMV.json",
+			"type": "json",
+			"name": "yanMV_json"
+		},
+		{
+			"url": "images/GamePage/yanMV.png",
+			"type": "image",
+			"name": "yanMV_png"
+		},
+		{
+			"url": "images/IndexPage/chooseLevelIcon.png",
+			"type": "image",
+			"name": "chooseLevelIcon_png"
+		},
+		{
+			"url": "images/ChooseLevelPage/chooseHat.png",
+			"type": "image",
+			"name": "chooseHat_png"
+		},
+		{
+			"url": "images/ChooseLevelPage/chooseItemBg.png",
+			"type": "image",
+			"name": "chooseItemBg_png"
+		},
+		{
+			"url": "images/ChooseLevelPage/star.png",
+			"type": "image",
+			"name": "star_png"
+		},
+		{
+			"url": "images/MatchPage/rotateIcon.png",
+			"type": "image",
+			"name": "rotateIcon_png"
+		},
+		{
+			"url": "musics/dongwu_8.mp3",
+			"type": "sound",
+			"name": "dongwu_8_mp3"
+		},
+		{
+			"url": "musics/fail.mp3",
+			"type": "sound",
+			"name": "fail_mp3"
+		},
+		{
+			"url": "musics/fan.mp3",
+			"type": "sound",
+			"name": "fan_mp3"
+		},
+		{
+			"url": "musics/lost.mp3",
+			"type": "sound",
+			"name": "lost_mp3"
+		},
+		{
+			"url": "musics/notice.mp3",
+			"type": "sound",
+			"name": "notice_mp3"
+		},
+		{
+			"url": "musics/pipei.mp3",
+			"type": "sound",
+			"name": "pipei_mp3"
+		},
+		{
+			"url": "musics/select.mp3",
+			"type": "sound",
+			"name": "select_mp3"
+		},
+		{
+			"url": "musics/Success.mp3",
+			"type": "sound",
+			"name": "Success_mp3"
+		},
+		{
+			"url": "musics/win.mp3",
+			"type": "sound",
+			"name": "win_mp3"
+		},
+		{
+			"url": "musics/zha.mp3",
+			"type": "sound",
+			"name": "zha_mp3"
+		},
+		{
+			"url": "musics/zou.mp3",
+			"type": "sound",
+			"name": "zou_mp3"
+		},
+		{
+			"url": "musics/chi.mp3",
+			"type": "sound",
+			"name": "chi_mp3"
+		},
+		{
+			"url": "musics/dongwu_1.mp3",
+			"type": "sound",
+			"name": "dongwu_1_mp3"
+		},
+		{
+			"url": "musics/dongwu_2.mp3",
+			"type": "sound",
+			"name": "dongwu_2_mp3"
+		},
+		{
+			"url": "musics/dongwu_3.mp3",
+			"type": "sound",
+			"name": "dongwu_3_mp3"
+		},
+		{
+			"url": "musics/dongwu_4.mp3",
+			"type": "sound",
+			"name": "dongwu_4_mp3"
+		},
+		{
+			"url": "musics/dongwu_5.mp3",
+			"type": "sound",
+			"name": "dongwu_5_mp3"
+		},
+		{
+			"url": "musics/dongwu_6.mp3",
+			"type": "sound",
+			"name": "dongwu_6_mp3"
+		},
+		{
+			"url": "musics/dongwu_7.mp3",
+			"type": "sound",
+			"name": "dongwu_7_mp3"
+		},
+		{
+			"url": "images/GamePage/write.png",
+			"type": "image",
+			"name": "write_png"
+		},
+		{
+			"url": "images/GamePage/clickInput.png",
+			"type": "image",
+			"name": "clickInput_png"
+		},
+		{
+			"url": "images/GamePage/sendTxtMsg.png",
+			"type": "image",
+			"name": "sendTxtMsg_png"
+		},
+		{
+			"url": "images/GamePage/listBg.png",
+			"type": "image",
+			"name": "listBg_png"
+		},
+		{
+			"url": "images/IndexPage/index_rank.png",
+			"type": "image",
+			"name": "index_rank_png"
+		},
+		{
+			"url": "images/IndexPage/index_coin.png",
+			"type": "image",
+			"name": "index_coin_png"
+		},
+		{
+			"url": "images/IndexPage/index_sign.png",
+			"type": "image",
+			"name": "index_sign_png"
+		},
+		{
+			"url": "images/IndexPage/index_turn.png",
+			"type": "image",
+			"name": "index_turn_png"
+		},
+		{
+			"url": "images/IndexPage/index_invite.png",
+			"type": "image",
+			"name": "index_invite_png"
+		},
+		{
+			"url": "images/IndexPage/index_freeCoin.png",
+			"type": "image",
+			"name": "index_freeCoin_png"
+		},
+		{
+			"url": "images/IndexPage/index_friendNav.png",
+			"type": "image",
+			"name": "index_friendNav_png"
+		},
+		{
+			"url": "images/IndexPage/index_voice_open.png",
+			"type": "image",
+			"name": "index_voice_open_png"
+		},
+		{
+			"url": "images/IndexPage/index_voice_close.png",
+			"type": "image",
+			"name": "index_voice_close_png"
+		},
+		{
+			"url": "images/IndexPage/index_person.png",
+			"type": "image",
+			"name": "index_person_png"
+		},
+		{
+			"url": "images/IndexPage/index_shop.png",
+			"type": "image",
+			"name": "index_shop_png"
+		},
+		{
+			"url": "images/GamePage/singleTextMsg.png",
+			"type": "image",
+			"name": "singleTextMsg_png"
+		},
+		{
+			"url": "images/GamePage/chat_choose.png",
+			"type": "image",
+			"name": "chat_choose_png"
+		},
+		{
+			"url": "images/GamePage/translucenceBg.png",
+			"type": "image",
+			"name": "translucenceBg_png"
+		},
+		{
+			"url": "images/ChooseLevelPage/flaunt.png",
+			"type": "image",
+			"name": "flaunt_png"
+		},
+		{
+			"url": "images/GamePage/quitBtn.png",
+			"type": "image",
+			"name": "quitBtn_png"
+		},
+		{
+			"url": "images/GamePage/peaceBtn.png",
+			"type": "image",
+			"name": "peaceBtn_png"
+		},
+		{
+			"url": "images/GamePage/propBtn.png",
+			"type": "image",
+			"name": "propBtn_png"
+		},
+		{
+			"url": "images/GamePage/propBg.png",
+			"type": "image",
+			"name": "propBg_png"
+		},
+		{
+			"url": "images/GamePage/prop_calcu.png",
+			"type": "image",
+			"name": "prop_calcu_png"
+		},
+		{
+			"url": "images/GamePage/prop_mouse.png",
+			"type": "image",
+			"name": "prop_mouse_png"
+		},
+		{
+			"url": "images/GamePage/chat_1.png",
+			"type": "image",
+			"name": "chat_1_png"
+		},
+		{
+			"url": "images/GamePage/chat_2.png",
+			"type": "image",
+			"name": "chat_2_png"
+		},
+		{
+			"url": "images/ChooseLevelPage/gradBg.png",
+			"type": "image",
+			"name": "gradBg_png"
+		},
+		{
+			"url": "images/ChooseLevelPage/lockBg.png",
+			"type": "image",
+			"name": "lockBg_png"
+		},
+		{
+			"url": "images/IndexPage/moreBg.png",
+			"type": "image",
+			"name": "moreBg_png"
+		},
+		{
+			"url": "images/IndexPage/more1.png",
+			"type": "image",
+			"name": "more1_png"
+		},
+		{
+			"url": "images/IndexPage/more2.png",
+			"type": "image",
+			"name": "more2_png"
+		},
+		{
+			"url": "images/IndexPage/more3.png",
+			"type": "image",
+			"name": "more3_png"
+		},
+		{
+			"url": "images/IndexPage/more4.png",
+			"type": "image",
+			"name": "more4_png"
+		},
+		{
+			"url": "images/Window/award_calcu.png",
+			"type": "image",
+			"name": "award_calcu_png"
+		},
+		{
+			"url": "images/Window/award_mouse.png",
+			"type": "image",
+			"name": "award_mouse_png"
+		},
+		{
+			"url": "images/Window/inviteGiftWindowShare.png",
+			"type": "image",
+			"name": "inviteGiftWindowShare_png"
+		},
+		{
+			"url": "images/Window/mouse_revive.png",
+			"type": "image",
+			"name": "mouse_revive_png"
+		},
+		{
+			"url": "images/Window/seeVideoLotto.png",
+			"type": "image",
+			"name": "seeVideoLotto_png"
+		},
+		{
+			"url": "images/Window/shopBg.png",
+			"type": "image",
+			"name": "shopBg_png"
+		},
+		{
+			"url": "images/Window/signBg.png",
+			"type": "image",
+			"name": "signBg_png"
+		},
+		{
+			"url": "images/Window/sign_1.png",
+			"type": "image",
+			"name": "sign_1_png"
+		},
+		{
+			"url": "images/Window/sign_2.png",
+			"type": "image",
+			"name": "sign_2_png"
+		},
+		{
+			"url": "images/Window/sign_3.png",
+			"type": "image",
+			"name": "sign_3_png"
+		},
+		{
+			"url": "images/Window/sign_4.png",
+			"type": "image",
+			"name": "sign_4_png"
+		},
+		{
+			"url": "images/Window/sign_5.png",
+			"type": "image",
+			"name": "sign_5_png"
+		},
+		{
+			"url": "images/Window/sign_6.png",
+			"type": "image",
+			"name": "sign_6_png"
+		},
+		{
+			"url": "images/Window/sign_7.png",
+			"type": "image",
+			"name": "sign_7_png"
+		},
+		{
+			"url": "images/Window/turnPlane.png",
+			"type": "image",
+			"name": "turnPlane_png"
+		},
+		{
+			"url": "images/Window/turnPoint.png",
+			"type": "image",
+			"name": "turnPoint_png"
+		},
+		{
+			"url": "images/Window/turnTitle.png",
+			"type": "image",
+			"name": "turnTitle_png"
+		},
+		{
+			"url": "images/Window/signGet.png",
+			"type": "image",
+			"name": "signGet_png"
+		},
+		{
+			"url": "images/GamePage/winBg.png",
+			"type": "image",
+			"name": "winBg_png"
+		},
+		{
+			"url": "images/Window/award_coin.png",
+			"type": "image",
+			"name": "award_coin_png"
+		},
+		{
+			"url": "images/Window/ratate1.png",
+			"type": "image",
+			"name": "ratate1_png"
+		},
+		{
+			"url": "images/Window/ratate2.png",
+			"type": "image",
+			"name": "ratate2_png"
+		},
+		{
+			"url": "images/Window/congratTitle.png",
+			"type": "image",
+			"name": "congratTitle_png"
+		},
+		{
+			"url": "images/Window/getGift1.png",
+			"type": "image",
+			"name": "getGift1_png"
+		},
+		{
+			"url": "images/IndexPage/window_close.png",
+			"type": "image",
+			"name": "window_close_png"
+		},
+		{
+			"url": "images/IndexPage/window_return.png",
+			"type": "image",
+			"name": "window_return_png"
+		},
+		{
+			"url": "images/IndexPage/toastComfire.png",
+			"type": "image",
+			"name": "toastComfire_png"
+		},
+		{
+			"url": "images/IndexPage/toastBg.png",
+			"type": "image",
+			"name": "toastBg_png"
+		},
+		{
+			"url": "images/Window/shop_buy.png",
+			"type": "image",
+			"name": "shop_buy_png"
+		},
+		{
+			"url": "images/GamePage/mouseHead.png",
+			"type": "image",
+			"name": "mouseHead_png"
+		},
+		{
+			"url": "images/Window/personCenterBg.png",
+			"type": "image",
+			"name": "personCenterBg_png"
+		},
+		{
+			"url": "images/Window/invite_gotted.png",
+			"type": "image",
+			"name": "invite_gotted_png"
+		},
+		{
+			"url": "images/Window/getGift2.png",
+			"type": "image",
+			"name": "getGift2_png"
+		},
+		{
+			"url": "images/Window/invite_unGet.png",
+			"type": "image",
+			"name": "invite_unGet_png"
+		},
+		{
+			"url": "images/Window/willBeInviteFriends.png",
+			"type": "image",
+			"name": "willBeInviteFriends_png"
+		},
+		{
+			"url": "images/Window/inviteGiftWindow.png",
+			"type": "image",
+			"name": "inviteGiftWindow_png"
+		},
+		{
+			"url": "images/Window/inviteGiftWindowItem.png",
+			"type": "image",
+			"name": "inviteGiftWindowItem_png"
+		},
+		{
+			"url": "images/MatchPage/matchPageBg.jpg",
+			"type": "image",
+			"name": "matchPageBg_jpg"
+		},
+		{
+			"url": "images/MatchPage/rotateIcon1.png",
+			"type": "image",
+			"name": "rotateIcon1_png"
+		},
+		{
+			"url": "images/MatchPage/match_inviteBtn.png",
+			"type": "image",
+			"name": "match_inviteBtn_png"
+		},
+		{
+			"url": "images/MatchPage/match_quitBtn.png",
+			"type": "image",
+			"name": "match_quitBtn_png"
+		},
+		{
+			"url": "images/GamePage/tieBg.png",
+			"type": "image",
+			"name": "tieBg_png"
+		},
+		{
+			"url": "images/GamePage/failBg.png",
+			"type": "image",
+			"name": "failBg_png"
+		},
+		{
+			"url": "images/GamePage/exchangeEnemy.png",
+			"type": "image",
+			"name": "exchangeEnemy_png"
+		},
+		{
+			"url": "images/GamePage/againPlayBtn.png",
+			"type": "image",
+			"name": "againPlayBtn_png"
+		},
+		{
+			"url": "images/ChooseLevelPage/grad.json",
+			"type": "sheet",
+			"name": "grad_json",
+			"subkeys": "grad0_png,grad10_png,grad11_png,grad12_png,grad13_png,grad14_png,grad15_png,grad16_png,grad17_png,grad18_png,grad19_png,grad1_png,grad20_png,grad21_png,grad22_png,grad23_png,grad24_png,grad25_png,grad26_png,grad27_png,grad2_png,grad3_png,grad4_png,grad5_png,grad6_png,grad7_png,grad8_png,grad9_png"
+		},
+		{
+			"url": "images/RankPage/rank_title.png",
+			"type": "image",
+			"name": "rank_title_png"
+		},
+		{
+			"url": "images/RankPage/flauntRank.png",
+			"type": "image",
+			"name": "flauntRank_png"
+		},
+		{
+			"url": "images/RankPage/seeGroupRank.png",
+			"type": "image",
+			"name": "seeGroupRank_png"
+		},
+		{
+			"url": "images/GamePage/shangyishou.png",
+			"type": "image",
+			"name": "shangyishou_png"
+		},
+		{
+			"url": "images/GamePage/indexHelp.png",
+			"type": "image",
+			"name": "indexHelp_png"
+		},
+		{
+			"url": "images/platform/rankNext.png",
+			"type": "image",
+			"name": "rankNext_png"
+		},
+		{
+			"url": "images/platform/rankPrev.png",
+			"type": "image",
+			"name": "rankPrev_png"
+		}
+	]
+}
