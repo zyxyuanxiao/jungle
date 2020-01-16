@@ -28,6 +28,8 @@
  
  ## 软件截图：
 <div align="center">
+    <img src="readme/3.jpg"  height="600" width="320">
+    <img src="readme/4.jpg"  height="600" width="320">
     <img src="readme/1.gif"  height="600" width="320">
     <img src="readme/2.gif"  height="600" width="320">
 </div>
