@@ -19,6 +19,12 @@
  * 个人数据中心
  * 分享转盘抽奖
  * 道具商店
+
+ ## 使用方式：
+ * 源码：斗兽棋/src
+ * 开发工具：EgretWing
+ * 编译发布工具：Egret Launcher
+ * 查看效果：使用微信开发者工具导入 斗兽棋_wxgame
  
  ## 软件截图：
 <div align="center">
@@ -26,8 +32,3 @@
     <img src="readme/2.gif"  height="600" width="320">
 </div>
 
-## 使用方式：
-源码：斗兽棋/src
-开发工具：EgretWing
-编译发布工具：Egret Launcher
-查看效果：使用微信开发者工具导入 斗兽棋_wxgame
