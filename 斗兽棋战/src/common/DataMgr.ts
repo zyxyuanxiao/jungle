@@ -95,10 +95,8 @@ class DataMgr {
         this.gameData_CF = {
             VERSION: 'v1.0.9',
             XID: 79,
-            HOST: 'https://www.eryieryi.top',    //正式版接口
-            //HOST: 'https://api.aifkj.top',   //测试版接口
-            SOCKET_HOST: 'wss://upload.eryieryi.top', //websocket正式接口
-            //SOCKET_HOST: 'wss://upload.eryieryi.top/wss-test',    //websocket测试接口
+            HOST: '',    //正式版接口
+            SOCKET_HOST: '', //websocket正式接口
             NEEDAUTH: true,
             PLAY_COST_BASE: 10,
         }
